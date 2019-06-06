@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="drawerOpened">Drawer opened</string>
+    <string name="drawerClosed">Drawer closed</string>
+</resources>
